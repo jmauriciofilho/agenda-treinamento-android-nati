@@ -1,0 +1,65 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        // replace with the current version of the Android plugin
+        classpath 'com.android.tools.build:gradle:2.3.0'
+    }
+}
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+}
+
+apply plugin: 'com.android.application'
+
+apply plugin: 'com.android.application'
+apply plugin: 'realm-android'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "br.unifor.treinamento.agenda"
+        minSdkVersion 24
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+    }
+}
+
+
+
+def AAVersion = "4.3.1"
+def AndroidSupportVersion = "26.+"
+def EventBusVersion = "3.0.0"
+def RetrofitVersion = "2.3.0"
+
+dependencies {
+    annotationProcessor "org.androidannotations:androidannotations:$AAVersion"
+    compile "org.androidannotations:androidannotations-api:$AAVersion"
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile "com.android.support:appcompat-v7:$AndroidSupportVersion"
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile "com.android.support:design:$AndroidSupportVersion"
+    compile "org.greenrobot:eventbus:$EventBusVersion"
+    compile "com.squareup.retrofit2:retrofit:$RetrofitVersion"
+    compile group: 'com.squareup.retrofit2', name: 'converter-gson', version: '2.3.0'
+    testCompile 'junit:junit:4.12'
+}

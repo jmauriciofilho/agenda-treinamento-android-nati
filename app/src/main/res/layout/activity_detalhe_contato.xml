@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/label_nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nome"/>
+
+    <EditText
+        android:id="@+id/campo_nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/label_nome"
+        />
+
+    <TextView
+        android:id="@+id/label_telefone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/campo_nome"
+        android:text="Telefone"/>
+
+    <EditText
+        android:id="@+id/campo_telefone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/label_telefone"
+        />
+
+    <TextView
+        android:id="@+id/label_idade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+
+        android:layout_below="@+id/campo_telefone"
+        android:text="Idade"/>
+
+    <EditText
+        android:id="@+id/campo_idade"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/label_idade"
+        android:layout_alignBaseline="@+id/label_idade"
+        android:layout_toRightOf="@+id/label_idade"
+        />
+
+
+
+</RelativeLayout>

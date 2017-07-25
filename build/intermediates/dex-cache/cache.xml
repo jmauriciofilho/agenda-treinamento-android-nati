@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_c793ec8e1da9d8b03832dcbf3159416854231006.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/cc64c48f12ccf9a78ec75d29f9e770fef94dbf7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_46b75e2d4fcb0209e64f4893b6829cd7beba2563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/ebfa944da38deb5f7babdfbe405ad47055b103a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_0869f36377fea3f8a275264a1bc88b2b1a3e41d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f55087ee0000447eb30bc006b5bc9acee52efbbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/952f19b44afe23bb3c2660093dead43aa1dce9a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_35495b96377ceacb0bb1e32945e0271ceac1814d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/3aeae4ce0f0889b549d3f9f0a98e8a527803e54b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_f7f8099612ac5f71bf6bea3773ac4c174811dbb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/b554701a39c30a0a984461800589402a1f5f799e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_b40436cb8b31aef7d96b0479d1b1e569bde85792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.5.0/1e4b144dd28b139ae890ce2868979b12e1f2d7c7/realm-annotations-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e4b144dd28b139ae890ce2868979b12e1f2d7c7">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/realm-annotations-3.5.0_e1834f301dd1a4405d110b63039f33c2dda3092a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_16adfec9c1cfd53cf39e4122585a6ce6baf81e29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/13977391cc40ebf7b6d461d1ede93dc6ce6f009a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_feb01bcf7eba412cc1a017ffe18e8cd082bed840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/45dc64db0d6a36789f5f7b182a29e57cb1fe81b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_bc7e7aba869fa726307e5aebac0b8773e1190942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/cac64270658bbfc11f0482766161fa3e2d3037f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_7ce0a2b3c79fc00c72e001eea9a9052c4c9f946f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/282a9cd916ee9062a5717d41dd978e38612b9af5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="700f8f1135982ef49cb91121a76490565f069553">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_fc38c196bb0d4509cd4713b3740d232db09a3bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/035af511e54aff205679343968797943f9c95690/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_6697986f021476992282181d2b4f6829ded936e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/f7cd33edaecb285a434794170e51f1f0fc821b15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_d7103203d6d936d995e00bd1613df6cc6e89fc38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b36341cf2873f25332d3455b87a44ed09096edb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/87c646d6733fb4ad6c141b83ba2e2fdd2677e7cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_83374f7179d16cb2f7b9db31f5872d3dc5cad359.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_531d5880afe389ba548e1c20c454aefbbe85b227.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/6f141dfbfe44f34c7f8d9ee3e089c9cc4f208bf9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_9a50c214356666208ddf710d4a2464f8237138b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_e859781287755a72b6df0cc8fffcbd9c8009d848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/d13dbda3f4f31f5bd057042362466a6b89d5e35f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_90b2cb1a726b120abfa53039cb1d9835bb9e0c90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_b96d018f1f345b4b4f15e5faa213248154bbdedd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.android/build-cache/4df583d21773dd6a6d40abc15687e9b7b5a105fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/classes_2b7f79cadbf158ae58b33d7a978fb4b46158d168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/gson-2.7_5489ef8471cfa3e8e1a7aadde6232199a0e0beb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mauricio/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/4.3.1/77290867db9d66d83c8426d26f9e39a65c68d7ec/androidannotations-api-4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77290867db9d66d83c8426d26f9e39a65c68d7ec">
+        <dex dex="/home/mauricio/workspace/agenda-treinamento-nati/app/build/intermediates/pre-dexed/debug/androidannotations-api-4.3.1_07e07aaf9afe404eb720b72b281ff809853fdb7c.jar" />
+    </item>
+
+</items>
